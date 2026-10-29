@@ -1,0 +1,12 @@
+Item,Qty,Price,LineTotal,Discount,GrandTotal
+Pen,10,2,=B2*c2,,
+Notebook,5,4,=B3*c4..
+Eraser,20,1,=B4*C4,,
+Ruler,8,3,=B5*C5,,
+Stepler,2,15,=B6*C6,,
+Paper,100,0.50,=B7*C7,,
+Marker,12,2.50,=B8*C8,,
+Folder,6,3=B9*C9
+Tape,15,2=B10*C10
+Binder,4,8,=B11*C11,,
+
